@@ -1,8 +1,6 @@
-# COS332 - PRACTICAL ASSIGNMENT 4
+# HTTP APPOINTMENT MANAGER 
 
-## INTRODUCTION
-
-An HTTP server in Java that serves browser-based appointment manager that allows for adding, deleting and searching of appointments. After startign server, all the interactions happer through the browser.
+An HTTP server in Java that serves browser-based appointment manager that allows for adding, deleting and searching of appointments. After starting the server, all the interactions happer through the browser. This project is part of the computer networks module as part of the University of Pretoria.
 
 ## File Structure
  
