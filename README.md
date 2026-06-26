@@ -85,7 +85,7 @@ A photo can be uploaded with any appointment. When the browser loads the appoint
 - Reading the stored raw image bytes
 - Sending back a binary HTTP response with the correct `Content-Type` header (e.g. `image/jpeg`, `image/png`)
  
-The response headers are sent as UTF-8 text, followed immediately by the raw binary image bytes — one after the other so the image will be corrupted.
+The response headers are sent as UTF-8 text, followed immediately by the raw binary image bytes — one after the other so the image will not be corrupted.
  
 ### 3. HTTP Status Codes (RFC 2616)
  
